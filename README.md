@@ -1,4 +1,4 @@
-# weather
+# Weather UI
 
 A new Flutter project.
 
